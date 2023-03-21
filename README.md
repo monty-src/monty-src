@@ -4,9 +4,9 @@
 
 ## Operating Systems
 
-[![Linux](https://svgshare.com/i/Zhy.svg)](https://www.linux.org/)
-[![macOS](https://www.apple.com/macos/ventura/)
-[![Windows](https://www.microsoft.com/en-us/windows?r=1)
+[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
+[![macOS](https://svgshare.com/i/ZjP.svg)](https://www.apple.com/macos/ventura/)
+[![Windows](https://svgshare.com/i/ZhY.svg)](https://www.microsoft.com/en-us/windows?r=1)
 
 ## Back-End Web Technologies
 
@@ -19,25 +19,25 @@
 
 ### Database
 
-[![SQL Badge](https://img.shields.io/badge/monitoring-sql-critical.svg)](https://shields.io/)
-[![MongoDB Badge](https://img.shields.io/badge/monitoring-mongodb-critical.svg)](https://shields.io/)
+[![SQL Badge](https://img.shields.io/badge/monitoring-pm2-critical.svg)](https://www.mysql.com/)
+[![MongoDB Badge](https://img.shields.io/badge/monitoring-newrelic-critical.svg)](https://www.mongodb.com/)
 
 ### Monitoring
 
-[![PM2 Badge](https://img.shields.io/badge/monitoring-pm2-critical.svg)](https://shields.io/)
-[![Newrelic Badge](https://img.shields.io/badge/monitoring-newrelic-critical.svg)](https://shields.io/)
-[![CloudWatch Badge](https://img.shields.io/badge/monitoring-cloudwatch-critical.svg)](https://shields.io/)
+[![PM2 Badge](https://img.shields.io/badge/monitoring-pm2-critical.svg)](https://pm2.keymetrics.io/docs/usage/monitoring/)
+[![Newrelic Badge](https://img.shields.io/badge/monitoring-newrelic-critical.svg)](https://newrelic.com/)
+[![CloudWatch Badge](https://img.shields.io/badge/monitoring-cloudwatch-critical.svg)](https://docs.aws.amazon.com/cloudwatch/index.html)
 
 ## CI/CD
 
-[![Jenkins Badge](https://img.shields.io/badge/build-jenkins-critical.svg)](https://shields.io/)
-[![CircleCI Badge](https://img.shields.io/badge/build-circleci-critical.svg)](https://shields.io/)
-[![TravisCI Badge](https://img.shields.io/badge/build-travisci-critical.svg)](https://shields.io/)
-[![GithubPages Badge](https://img.shields.io/badge/build-githubpages-critical.svg)](https://shields.io/)
-[![Ansible Badge](https://img.shields.io/badge/build-ansible-critical.svg)](https://shields.io/)
-[![AWS CodeBuild Badge](https://img.shields.io/badge/build-aws%20codebuild-critical.svg)](https://shields.io/)
-[![AWS CodeDeploy Badge](https://img.shields.io/badge/build-aws%20codedeploy-critical.svg)](https://shields.io/)
-[![AWS CodePipeline Badge](https://img.shields.io/badge/build-aws%20codepipeline-critical.svg)](https://shields.io/)
+[![Jenkins Badge](https://img.shields.io/badge/build-jenkins-critical.svg)](https://www.jenkins.io/)
+[![CircleCI Badge](https://img.shields.io/badge/build-circleci-critical.svg)](https://circleci.com/)
+[![TravisCI Badge](https://img.shields.io/badge/build-travisci-critical.svg)](https://www.travis-ci.com/)
+[![GithubPages Badge](https://img.shields.io/badge/build-githubpages-critical.svg)](https://pages.github.com/)
+[![Ansible Badge](https://img.shields.io/badge/build-ansible-critical.svg)](https://www.ansible.com/)
+[![AWS CodeBuild Badge](https://img.shields.io/badge/build-aws%20codebuild-critical.svg)](https://aws.amazon.com/codebuild/)
+[![AWS CodeDeploy Badge](https://img.shields.io/badge/build-aws%20codedeploy-critical.svg)](https://aws.amazon.com/codedeploy/)
+[![AWS CodePipeline Badge](https://img.shields.io/badge/build-aws%20codepipeline-critical.svg)](https://aws.amazon.com/codepipeline/)
 
 ## Front-End Web Technologies
 
