@@ -1,6 +1,6 @@
 ### Overview
 
-Hi there, I'm [![Name Badge](https://img.shields.io/badge/name-Montier%20Elliott-black.svg)](https://shields.io/)! As an experienced full-stack developer with over a decade of expertise, I'm excited to be joining the vibrant GitHub community. If you're interested in discussing technology, I'd love to chat - please feel free to reach out to me on any of the platforms listed under my profile. Let's connect and make amazing things happen!
+Hi there, I'm Monty! As an experienced full-stack developer with over a decade of expertise, I'm excited to be joining the vibrant GitHub community. If you're interested in discussing technology, I'd love to chat - please feel free to reach out to me on any of the platforms listed under my profile. Let's connect and make amazing things happen!
 
 ### Operating Systems
 
