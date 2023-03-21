@@ -63,12 +63,31 @@
 [![AWS CodeDeploy Badge](https://img.shields.io/badge/build-aws%20codedeploy-blue.svg)](https://shields.io/)
 [![AWS CodePipeline Badge](https://img.shields.io/badge/build-aws%20codepipeline-blue.svg)](https://shields.io/)
 
-
-
 ## Testing
 
 [![Cypress Badge](https://img.shields.io/badge/testing-cypress-green.svg)](https://shields.io/)
 [![Mocha Badge](https://img.shields.io/badge/testing-mocha-orange.svg)](https://shields.io/)
+
+## Vendors (Third Parties)
+
+
+[![Adobe Analytics](https://img.shields.io/badge/build-adobe%20analytics-blue.svg)](https://shields.io/)
+[![Adobe Target](https://img.shields.io/badge/build-adobe%20target-blue.svg)](https://shields.io/)
+[![CheckMarx](https://img.shields.io/badge/build-cherkmarx-blue.svg)](https://shields.io/)
+[![Commission Junctions](https://img.shields.io/badge/build-commission%20junctions-blue.svg)](https://shields.io/)
+[![Genesys](https://img.shields.io/badge/build-genesys-blue.svg)](https://shields.io/)
+[![Glance](https://img.shields.io/badge/build-glance-blue.svg)](https://shields.io/)
+[![Glassbox](https://img.shields.io/badge/build-glassbox-blue.svg)](https://shields.io/)
+[![Google Analytics](https://img.shields.io/badge/build-google%20analytics-blue.svg)](https://shields.io/)
+[![Google DoubleClick](https://img.shields.io/badge/build-google%20doubleclick-blue.svg)](https://shields.io/)
+[![Knotch](https://img.shields.io/badge/build-knotch-blue.svg)](https://shields.io/)
+[![Medallia](https://img.shields.io/badge/build-medallia-blue.svg)](https://shields.io/)
+[![One Trust CCPA](https://img.shields.io/badge/build-onetrust%20ccpa-blue.svg)](https://shields.io/)
+[![One Trust GDPR](https://img.shields.io/badge/build-onetrust%20gdpr-blue.svg)](https://shields.io/)
+[![Splunk](https://img.shields.io/badge/build-splunk-blue.svg)](https://shields.io/)
+[![Stripe](https://img.shields.io/badge/build-stripe-blue.svg)](https://shields.io/)
+[![Shopify](https://img.shields.io/badge/build-shopify-blue.svg)](https://shields.io/)
+[![Tealium](https://img.shields.io/badge/build-tealium-blue.svg)](https://shields.io/)
 
 ## Version Control
 
