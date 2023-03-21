@@ -4,9 +4,9 @@
 
 ## Operating Systems
 
-[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
-[![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg)
-[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
+[![Linux](https://svgshare.com/i/Zhy.svg)](https://www.linux.org/)
+[![macOS](https://www.apple.com/macos/ventura/)
+[![Windows](https://www.microsoft.com/en-us/windows?r=1)
 
 ## Back-End Web Technologies
 
@@ -15,7 +15,7 @@
 [![Strapi Badge](https://img.shields.io/badge/framework-strapi-critical.svg)](https://strapi.io/)
 [![Django Badge](https://img.shields.io/badge/framework-django-critical.svg)](https://www.djangoproject.com/)
 [![SiteCore Badge](https://img.shields.io/badge/framework-SiteCore-critical.svg)](https://www.sitecore.com/)
-[![Websockets Badge](https://img.shields.io/badge/framework-websockets-critical.svg)](https://www.sitecore.com/)
+[![Websockets Badge](https://img.shields.io/badge/framework-websockets-critical.svg)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
 
 ### Database
 
@@ -57,16 +57,19 @@
 [![Webpack Badge](https://img.shields.io/badge/tool-webpack-blue.svg)](https://shields.io/)
 
 ### Frameworks & Libraries
+
 [![React Badge](https://img.shields.io/badge/framework-react-blue.svg)](https://shields.io/)
 [![Docusaurus Badge](https://img.shields.io/badge/framework-docusaurus-blue.svg)](https://shields.io/)
 
 #### UI Frameworks
+
 [![Mui Badge](https://img.shields.io/badge/ui-mui-blue.svg)](https://mui.com/)
 [![Foundation Badge](https://img.shields.io/badge/ui-foundation-blue.svg)](https://shields.io/)
 [![Bootstrap Badge](https://img.shields.io/badge/ui-bootstrap-blue.svg)](https://shields.io/)
 [![Uber Badge](https://img.shields.io/badge/ui-baseweb.design-blue.svg)](https://shields.io/)
 
 #### Style Libraries
+
 [![Styled Components Badge](https://img.shields.io/badge/library-styled.components-blue.svg)](https://shields.io/)
 [![CSS Modules Badge](https://img.shields.io/badge/library-css.modules-blue.svg)](https://shields.io/)
 [![TailwindCSS Badge](https://img.shields.io/badge/library-tailwind-blue.svg)](https://shields.io/)
