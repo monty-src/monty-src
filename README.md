@@ -20,6 +20,17 @@
 [![Newrelic Badge](https://img.shields.io/badge/monitoring-newrelic-black.svg)](https://shields.io/)
 [![CloudWatch Badge](https://img.shields.io/badge/monitoring-cloudwatch-black.svg)](https://shields.io/)
 
+## CI/CD
+
+[![Jenkins Badge](https://img.shields.io/badge/build-jenkins-blue.svg)](https://shields.io/)
+[![CircleCI Badge](https://img.shields.io/badge/build-circleci-blue.svg)](https://shields.io/)
+[![TravisCI Badge](https://img.shields.io/badge/build-travisci-blue.svg)](https://shields.io/)
+[![GithubPages Badge](https://img.shields.io/badge/build-githubpages-blue.svg)](https://shields.io/)
+[![Ansible Badge](https://img.shields.io/badge/build-ansible-blue.svg)](https://shields.io/)
+[![AWS CodeBuild Badge](https://img.shields.io/badge/build-aws%20codebuild-blue.svg)](https://shields.io/)
+[![AWS CodeDeploy Badge](https://img.shields.io/badge/build-aws%20codedeploy-blue.svg)](https://shields.io/)
+[![AWS CodePipeline Badge](https://img.shields.io/badge/build-aws%20codepipeline-blue.svg)](https://shields.io/)
+
 ## Front-End Web Technologies
 
 [![HTML Badge](https://img.shields.io/badge/language-HTML-blue.svg)](https://shields.io/)
@@ -54,17 +65,6 @@
 [![React Query Badge](https://img.shields.io/badge/framework-react%20query-blue.svg)](https://shields.io/)
 [![Redux Toolkit Badge](https://img.shields.io/badge/framework-react%20toolkit-blue.svg)](https://shields.io/)
 
-## CI/CD
-
-[![Jenkins Badge](https://img.shields.io/badge/build-jenkins-blue.svg)](https://shields.io/)
-[![CircleCI Badge](https://img.shields.io/badge/build-circleci-blue.svg)](https://shields.io/)
-[![TravisCI Badge](https://img.shields.io/badge/build-travisci-blue.svg)](https://shields.io/)
-[![GithubPages Badge](https://img.shields.io/badge/build-githubpages-blue.svg)](https://shields.io/)
-[![Ansible Badge](https://img.shields.io/badge/build-ansible-blue.svg)](https://shields.io/)
-[![AWS CodeBuild Badge](https://img.shields.io/badge/build-aws%20codebuild-blue.svg)](https://shields.io/)
-[![AWS CodeDeploy Badge](https://img.shields.io/badge/build-aws%20codedeploy-blue.svg)](https://shields.io/)
-[![AWS CodePipeline Badge](https://img.shields.io/badge/build-aws%20codepipeline-blue.svg)](https://shields.io/)
-
 ## Testing
 
 [![Cypress Badge](https://img.shields.io/badge/testing-cypress-green.svg)](https://shields.io/)
@@ -72,7 +72,7 @@
 
 ## Vendors (Third Parties)
 
-
+[![Adobe Alloy](https://img.shields.io/badge/build-adobe%alloy-blue.svg)](https://shields.io/)
 [![Adobe Analytics](https://img.shields.io/badge/build-adobe%20analytics-blue.svg)](https://shields.io/)
 [![Adobe Target](https://img.shields.io/badge/build-adobe%20target-blue.svg)](https://shields.io/)
 [![CheckMarx](https://img.shields.io/badge/build-checkmarx-blue.svg)](https://shields.io/)
