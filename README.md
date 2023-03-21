@@ -1,6 +1,6 @@
-# Skills
+Just as we organize our books in alphabetical order for ease of access, let us organize our code in a similar fashion, so that we can free our minds from the burden of remembering where we put it, and instead focus on creating, innovating, and contributing positively to our shared community.
 
-"Just as we organize our books in alphabetical order for ease of access, let us organize our code in a similar fashion, so that we can free our minds from the burden of remembering where we put it, and instead focus on creating, innovating, and contributing positively to our shared community."
+# Skills
 
 ## Operating Systems
 
