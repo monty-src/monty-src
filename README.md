@@ -43,11 +43,11 @@
 
 ### Build Tools
 
-[![Grunt Badge](https://img.shields.io/badge/language-grunt-blue.svg)](https://shields.io/)
-[![Gulp Badge](https://img.shields.io/badge/language-gulp-blue.svg)](https://shields.io/)
-[![Pracel Badge](https://img.shields.io/badge/language-parcel-blue.svg)](https://shields.io/)
-[![Rollup Badge](https://img.shields.io/badge/language-rollup-blue.svg)](https://shields.io/)
-[![Webpack Badge](https://img.shields.io/badge/language-webpack-blue.svg)](https://shields.io/)
+[![Grunt Badge](https://img.shields.io/badge/tool-grunt-blue.svg)](https://shields.io/)
+[![Gulp Badge](https://img.shields.io/badge/tool-gulp-blue.svg)](https://shields.io/)
+[![Pracel Badge](https://img.shields.io/badge/tool-parcel-blue.svg)](https://shields.io/)
+[![Rollup Badge](https://img.shields.io/badge/tool-rollup-blue.svg)](https://shields.io/)
+[![Webpack Badge](https://img.shields.io/badge/tool-webpack-blue.svg)](https://shields.io/)
 
 ### Frameworks & Libraries
 [![React Badge](https://img.shields.io/badge/framework-react-blue.svg)](https://shields.io/)
