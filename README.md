@@ -17,6 +17,11 @@
 [![SiteCore Badge](https://img.shields.io/badge/framework-SiteCore-critical.svg)](https://www.sitecore.com/)
 [![Websockets Badge](https://img.shields.io/badge/framework-websockets-critical.svg)](https://www.sitecore.com/)
 
+### Database
+
+[![SQL Badge](https://img.shields.io/badge/monitoring-sql-critical.svg)](https://shields.io/)
+[![MongoDB Badge](https://img.shields.io/badge/monitoring-mongodb-critical.svg)](https://shields.io/)
+
 ### Monitoring
 
 [![PM2 Badge](https://img.shields.io/badge/monitoring-pm2-critical.svg)](https://shields.io/)
