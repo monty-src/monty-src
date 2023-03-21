@@ -8,9 +8,11 @@
 
 ## Back-End Web Technologies
 
-[![Express Badge](https://img.shields.io/badge/framework-expressjs-black.svg)](https://shields.io/)
-[![SailsJS Badge](https://img.shields.io/badge/framework-sailsjs-black.svg)](https://shields.io/)
-[![Strapi Badge](https://img.shields.io/badge/framework-strapi-black.svg)](https://shields.io/)
+[![Express Badge](https://img.shields.io/badge/framework-expressjs-black.svg)](https://expressjs.com/)
+[![SailsJS Badge](https://img.shields.io/badge/framework-sailsjs-black.svg)](https://sailsjs.com/)
+[![Strapi Badge](https://img.shields.io/badge/framework-strapi-black.svg)](https://strapi.io/)
+[![Django Badge](https://img.shields.io/badge/framework-django-black.svg)](https://www.djangoproject.com/)
+[![SiteCore Badge](https://img.shields.io/badge/framework-SiteCore-black.svg)](https://www.sitecore.com/)
 
 ### Monitoring
 
@@ -43,12 +45,12 @@
 
 ### State Management
 
-[![Flux Badge](https://img.shields.io/badge/framework-react-blue.svg)](https://shields.io/)
-[![BackboneJS Badge](https://img.shields.io/badge/framework-react-blue.svg)](https://shields.io/)
-[![RxJS Badge](https://img.shields.io/badge/framework-react-blue.svg)](https://shields.io/)
-[![Redux Badge](https://img.shields.io/badge/framework-react-blue.svg)](https://shields.io/)
-[![React Query Badge](https://img.shields.io/badge/framework-react-blue.svg)](https://shields.io/)
-[![Redux Toolkit Badge](https://img.shields.io/badge/framework-react-blue.svg)](https://shields.io/)
+[![Flux Badge](https://img.shields.io/badge/framework-flux-blue.svg)](https://shields.io/)
+[![BackboneJS Badge](https://img.shields.io/badge/framework-backbone-blue.svg)](https://shields.io/)
+[![RxJS Badge](https://img.shields.io/badge/framework-rxjs-blue.svg)](https://shields.io/)
+[![Redux Badge](https://img.shields.io/badge/framework-redux-blue.svg)](https://shields.io/)
+[![React Query Badge](https://img.shields.io/badge/framework-react%20query-blue.svg)](https://shields.io/)
+[![Redux Toolkit Badge](https://img.shields.io/badge/framework-react%20toolkit-blue.svg)](https://shields.io/)
 
 ## CI/CD
 
