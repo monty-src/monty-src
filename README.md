@@ -26,14 +26,29 @@
 [![Javascript Badge](https://img.shields.io/badge/language-Javascript-blue.svg)](https://shields.io/)
 [![Browser Web API Badge](https://img.shields.io/badge/language-BrowserAPI-blue.svg)](https://shields.io/)
 
+### Build Tools
+
+- [Parcel](https://parceljs.org/)
+- [Webpack](https://webpack.js.org/)
+- [Rollup](https://rollupjs.org/guide/en/)
+
 ### Frameworks & Libraries
 
 [![React Badge](https://img.shields.io/badge/framework-react-blue.svg)](https://shields.io/)
 [![Docusaurus Badge](https://img.shields.io/badge/framework-docusaurus-blue.svg)](https://shields.io/)
-[![Mui Badge](https://img.shields.io/badge/ui-mui-blue.svg)](https://shields.io/)
+[![Mui Badge](https://img.shields.io/badge/ui-mui-blue.svg)](https://mui.com/)
 [![Foundation Badge](https://img.shields.io/badge/ui-foundation-blue.svg)](https://shields.io/)
 [![Bootstrap Badge](https://img.shields.io/badge/ui-bootstrap-blue.svg)](https://shields.io/)
 [![Uber Badge](https://img.shields.io/badge/ui-baseweb.design-blue.svg)](https://shields.io/)
+
+### State Management
+
+[![Flux Badge](https://img.shields.io/badge/framework-react-blue.svg)](https://shields.io/)
+[![BackboneJS Badge](https://img.shields.io/badge/framework-react-blue.svg)](https://shields.io/)
+[![RxJS Badge](https://img.shields.io/badge/framework-react-blue.svg)](https://shields.io/)
+[![Redux Badge](https://img.shields.io/badge/framework-react-blue.svg)](https://shields.io/)
+[![React Query Badge](https://img.shields.io/badge/framework-react-blue.svg)](https://shields.io/)
+[![Redux Toolkit Badge](https://img.shields.io/badge/framework-react-blue.svg)](https://shields.io/)
 
 ## CI/CD
 
