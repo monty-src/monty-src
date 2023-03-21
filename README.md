@@ -19,6 +19,10 @@
 #### Frameworks & Libraries
 [![React Badge](https://img.shields.io/badge/framework-react-blue.svg)](https://shields.io/)
 
+### Testing
+[![Cypress Badge](https://img.shields.io/badge/testing-cypress-blue.svg)](https://shields.io/)
+[![Mocha Badge](https://img.shields.io/badge/testing-mocha-blue.svg)](https://shields.io/)
+
 ### Version Control
 [![Git Badge](https://img.shields.io/badge/version-git-blue.svg)](https://shields.io/)
 [![Perforce PV4 Badge](https://img.shields.io/badge/version-pv4-blue.svg)](https://shields.io/)
