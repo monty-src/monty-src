@@ -13,6 +13,7 @@
 [![Strapi Badge](https://img.shields.io/badge/framework-strapi-critical.svg)](https://strapi.io/)
 [![Django Badge](https://img.shields.io/badge/framework-django-critical.svg)](https://www.djangoproject.com/)
 [![SiteCore Badge](https://img.shields.io/badge/framework-SiteCore-critical.svg)](https://www.sitecore.com/)
+[![Websockets Badge](https://img.shields.io/badge/framework-websockets-critical.svg)](https://www.sitecore.com/)
 
 ### Monitoring
 
@@ -38,6 +39,7 @@
 [![SCSS Badge](https://img.shields.io/badge/language-SCSS-blue.svg)](https://shields.io/)
 [![Javascript Badge](https://img.shields.io/badge/language-Javascript-blue.svg)](https://shields.io/)
 [![Browser Web API Badge](https://img.shields.io/badge/language-BrowserAPI-blue.svg)](https://shields.io/)
+[![Websockets Badge](https://img.shields.io/badge/framework-websockets-blue.svg)](https://www.sitecore.com/)
 
 ### Build Tools
 
@@ -48,13 +50,21 @@
 [![Webpack Badge](https://img.shields.io/badge/language-webpack-blue.svg)](https://shields.io/)
 
 ### Frameworks & Libraries
-
 [![React Badge](https://img.shields.io/badge/framework-react-blue.svg)](https://shields.io/)
 [![Docusaurus Badge](https://img.shields.io/badge/framework-docusaurus-blue.svg)](https://shields.io/)
+
+### UI Frameworks
 [![Mui Badge](https://img.shields.io/badge/ui-mui-blue.svg)](https://mui.com/)
 [![Foundation Badge](https://img.shields.io/badge/ui-foundation-blue.svg)](https://shields.io/)
 [![Bootstrap Badge](https://img.shields.io/badge/ui-bootstrap-blue.svg)](https://shields.io/)
 [![Uber Badge](https://img.shields.io/badge/ui-baseweb.design-blue.svg)](https://shields.io/)
+
+### Style Libraries
+[![Styled Components Badge](https://img.shields.io/badge/library-styled.components-blue.svg)](https://shields.io/)
+[![CSS Modules Badge](https://img.shields.io/badge/library-css.modules-blue.svg)](https://shields.io/)
+[![TailwindCSS Badge](https://img.shields.io/badge/library-tailwind-blue.svg)](https://shields.io/)
+
+
 
 ### State Management
 
@@ -83,6 +93,7 @@
 [![Google Analytics](https://img.shields.io/badge/build-google%20analytics-yellowgreen.svg)](https://shields.io/)
 [![Google DoubleClick](https://img.shields.io/badge/build-google%20doubleclick-yellowgreen.svg)](https://shields.io/)
 [![Knotch](https://img.shields.io/badge/build-knotch-yellowgreen.svg)](https://shields.io/)
+[![MailChimp](https://img.shields.io/badge/build-mailchimp-yellowgreen.svg)](https://shields.io/)
 [![Medallia](https://img.shields.io/badge/build-medallia-yellowgreen.svg)](https://shields.io/)
 [![One Trust CCPA](https://img.shields.io/badge/build-onetrust%20ccpa-yellowgreen.svg)](https://shields.io/)
 [![One Trust GDPR](https://img.shields.io/badge/build-onetrust%20gdpr-yellowgreen.svg)](https://shields.io/)
