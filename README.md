@@ -63,7 +63,7 @@
 [![RxJS Badge](https://img.shields.io/badge/framework-rxjs-blue.svg)](https://shields.io/)
 [![Redux Badge](https://img.shields.io/badge/framework-redux-blue.svg)](https://shields.io/)
 [![React Query Badge](https://img.shields.io/badge/framework-react%20query-blue.svg)](https://shields.io/)
-[![Redux Toolkit Badge](https://img.shields.io/badge/framework-react%20toolkit-blue.svg)](https://shields.io/)
+[![Redux Toolkit Badge](https://img.shields.io/badge/framework-redux%20toolkit-blue.svg)](https://shields.io/)
 
 ## Testing
 
@@ -72,7 +72,7 @@
 
 ## Vendors (Third Parties)
 
-[![Adobe Alloy](https://img.shields.io/badge/build-adobe%alloy-blue.svg)](https://shields.io/)
+[![Adobe Alloy](https://img.shields.io/badge/build-adobe%20alloy-blue.svg)](https://shields.io/)
 [![Adobe Analytics](https://img.shields.io/badge/build-adobe%20analytics-blue.svg)](https://shields.io/)
 [![Adobe Target](https://img.shields.io/badge/build-adobe%20target-blue.svg)](https://shields.io/)
 [![CheckMarx](https://img.shields.io/badge/build-checkmarx-blue.svg)](https://shields.io/)
