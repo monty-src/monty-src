@@ -19,6 +19,8 @@
 #### Frameworks & Libraries
 [![React Badge](https://img.shields.io/badge/framework-react-blue.svg)](https://shields.io/)
 [![Mui Badge](https://img.shields.io/badge/framework-mui-blue.svg)](https://shields.io/)
+[![Foundation Badge](https://img.shields.io/badge/framework-bootstrap-blue.svg)](https://shields.io/)
+[![Bootstrap Badge](https://img.shields.io/badge/framework-bootstrap-blue.svg)](https://shields.io/)
 [![Uber Badge](https://img.shields.io/badge/framework-baseweb.design-blue.svg)](https://shields.io/)
 
 ### Testing
