@@ -30,6 +30,8 @@
 
 ### Build Tools
 
+[![Grunt Badge](https://img.shields.io/badge/language-grunt-blue.svg)](https://shields.io/)
+[![Gulp Badge](https://img.shields.io/badge/language-gulp-blue.svg)](https://shields.io/)
 [![Pracel Badge](https://img.shields.io/badge/language-parcel-blue.svg)](https://shields.io/)
 [![Rollup Badge](https://img.shields.io/badge/language-rollup-blue.svg)](https://shields.io/)
 [![Webpack Badge](https://img.shields.io/badge/language-webpack-blue.svg)](https://shields.io/)
@@ -73,7 +75,7 @@
 
 [![Adobe Analytics](https://img.shields.io/badge/build-adobe%20analytics-blue.svg)](https://shields.io/)
 [![Adobe Target](https://img.shields.io/badge/build-adobe%20target-blue.svg)](https://shields.io/)
-[![CheckMarx](https://img.shields.io/badge/build-cherkmarx-blue.svg)](https://shields.io/)
+[![CheckMarx](https://img.shields.io/badge/build-checkmarx-blue.svg)](https://shields.io/)
 [![Commission Junctions](https://img.shields.io/badge/build-commission%20junctions-blue.svg)](https://shields.io/)
 [![Genesys](https://img.shields.io/badge/build-genesys-blue.svg)](https://shields.io/)
 [![Glance](https://img.shields.io/badge/build-glance-blue.svg)](https://shields.io/)
