@@ -10,14 +10,16 @@
 
 
 ### Front-End Web Technologies
-[![HTML Badge](https://img.shields.io/badge/language-html-blue.svg)](https://shields.io/)
-[![CSS Badge](https://img.shields.io/badge/language-css-blue.svg)](https://shields.io/)
-[![SCSS Badge](https://img.shields.io/badge/language-scss-blue.svg)](https://shields.io/)
-[![Javascript Badge](https://img.shields.io/badge/language-javascript-blue.svg)](https://shields.io/)
+[![HTML Badge](https://img.shields.io/badge/language-HTML-blue.svg)](https://shields.io/)
+[![CSS Badge](https://img.shields.io/badge/language-CSS-blue.svg)](https://shields.io/)
+[![SCSS Badge](https://img.shields.io/badge/language-SCSS-blue.svg)](https://shields.io/)
+[![Javascript Badge](https://img.shields.io/badge/language-Javascript-blue.svg)](https://shields.io/)
 [![Browser Web API Badge](https://img.shields.io/badge/language-BrowserAPI-blue.svg)](https://shields.io/)
 
 #### Frameworks & Libraries
 [![React Badge](https://img.shields.io/badge/framework-react-blue.svg)](https://shields.io/)
+[![Mui Badge](https://img.shields.io/badge/framework-mui-blue.svg)](https://shields.io/)
+[![Uber Badge](https://img.shields.io/badge/framework-baseweb.design-blue.svg)](https://shields.io/)
 
 ### Testing
 [![Cypress Badge](https://img.shields.io/badge/testing-cypress-blue.svg)](https://shields.io/)
