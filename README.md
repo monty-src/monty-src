@@ -28,9 +28,9 @@
 
 ### Build Tools
 
-- [Parcel](https://parceljs.org/)
-- [Webpack](https://webpack.js.org/)
-- [Rollup](https://rollupjs.org/guide/en/)
+[![Pracel Badge](https://img.shields.io/badge/language-parcel-blue.svg)](https://shields.io/)
+[![Rollup Badge](https://img.shields.io/badge/language-rollup-blue.svg)](https://shields.io/)
+[![Webpack Badge](https://img.shields.io/badge/language-webpack-blue.svg)](https://shields.io/)
 
 ### Frameworks & Libraries
 
