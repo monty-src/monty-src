@@ -76,12 +76,12 @@ Just as we organize our books in alphabetical order for ease of access, let us o
 
 ### State Management
 
-[![Flux Badge](https://img.shields.io/badge/framework-flux-blue.svg)](https://facebookarchive.github.io/flux/)
-[![BackboneJS Badge](https://img.shields.io/badge/framework-backbone-blue.svg)](https://backbonejs.org/)
-[![RxJS Badge](https://img.shields.io/badge/framework-rxjs-blue.svg)](https://rxjs.dev/guide/overview)
-[![Redux Badge](https://img.shields.io/badge/framework-redux-blue.svg)](https://redux.js.org/)
-[![React Query Badge](https://img.shields.io/badge/framework-react%20query-blue.svg)](https://react-query-v3.tanstack.com/)
-[![Redux Toolkit Badge](https://img.shields.io/badge/framework-redux%20toolkit-blue.svg)](https://redux-toolkit.js.org/)
+[![Flux Badge](https://img.shields.io/badge/library-flux-blue.svg)](https://facebookarchive.github.io/flux/)
+[![BackboneJS Badge](https://img.shields.io/badge/library-backbone-blue.svg)](https://backbonejs.org/)
+[![RxJS Badge](https://img.shields.io/badge/library-rxjs-blue.svg)](https://rxjs.dev/guide/overview)
+[![Redux Badge](https://img.shields.io/badge/library-redux-blue.svg)](https://redux.js.org/)
+[![React Query Badge](https://img.shields.io/badge/library-react%20query-blue.svg)](https://react-query-v3.tanstack.com/)
+[![Redux Toolkit Badge](https://img.shields.io/badge/library-redux%20toolkit-blue.svg)](https://redux-toolkit.js.org/)
 
 ## Testing
 
