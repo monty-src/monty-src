@@ -8,28 +8,28 @@
 
 ## Back-End Web Technologies
 
-[![Express Badge](https://img.shields.io/badge/framework-expressjs-black.svg)](https://expressjs.com/)
-[![SailsJS Badge](https://img.shields.io/badge/framework-sailsjs-black.svg)](https://sailsjs.com/)
-[![Strapi Badge](https://img.shields.io/badge/framework-strapi-black.svg)](https://strapi.io/)
-[![Django Badge](https://img.shields.io/badge/framework-django-black.svg)](https://www.djangoproject.com/)
-[![SiteCore Badge](https://img.shields.io/badge/framework-SiteCore-black.svg)](https://www.sitecore.com/)
+[![Express Badge](https://img.shields.io/badge/framework-expressjs-critical.svg)](https://expressjs.com/)
+[![SailsJS Badge](https://img.shields.io/badge/framework-sailsjs-critical.svg)](https://sailsjs.com/)
+[![Strapi Badge](https://img.shields.io/badge/framework-strapi-critical.svg)](https://strapi.io/)
+[![Django Badge](https://img.shields.io/badge/framework-django-critical.svg)](https://www.djangoproject.com/)
+[![SiteCore Badge](https://img.shields.io/badge/framework-SiteCore-critical.svg)](https://www.sitecore.com/)
 
 ### Monitoring
 
-[![PM2 Badge](https://img.shields.io/badge/monitoring-pm2-black.svg)](https://shields.io/)
-[![Newrelic Badge](https://img.shields.io/badge/monitoring-newrelic-black.svg)](https://shields.io/)
-[![CloudWatch Badge](https://img.shields.io/badge/monitoring-cloudwatch-black.svg)](https://shields.io/)
+[![PM2 Badge](https://img.shields.io/badge/monitoring-pm2-critical.svg)](https://shields.io/)
+[![Newrelic Badge](https://img.shields.io/badge/monitoring-newrelic-critical.svg)](https://shields.io/)
+[![CloudWatch Badge](https://img.shields.io/badge/monitoring-cloudwatch-critical.svg)](https://shields.io/)
 
 ## CI/CD
 
-[![Jenkins Badge](https://img.shields.io/badge/build-jenkins-blue.svg)](https://shields.io/)
-[![CircleCI Badge](https://img.shields.io/badge/build-circleci-blue.svg)](https://shields.io/)
-[![TravisCI Badge](https://img.shields.io/badge/build-travisci-blue.svg)](https://shields.io/)
-[![GithubPages Badge](https://img.shields.io/badge/build-githubpages-blue.svg)](https://shields.io/)
-[![Ansible Badge](https://img.shields.io/badge/build-ansible-blue.svg)](https://shields.io/)
-[![AWS CodeBuild Badge](https://img.shields.io/badge/build-aws%20codebuild-blue.svg)](https://shields.io/)
-[![AWS CodeDeploy Badge](https://img.shields.io/badge/build-aws%20codedeploy-blue.svg)](https://shields.io/)
-[![AWS CodePipeline Badge](https://img.shields.io/badge/build-aws%20codepipeline-blue.svg)](https://shields.io/)
+[![Jenkins Badge](https://img.shields.io/badge/build-jenkins-critical.svg)](https://shields.io/)
+[![CircleCI Badge](https://img.shields.io/badge/build-circleci-critical.svg)](https://shields.io/)
+[![TravisCI Badge](https://img.shields.io/badge/build-travisci-critical.svg)](https://shields.io/)
+[![GithubPages Badge](https://img.shields.io/badge/build-githubpages-critical.svg)](https://shields.io/)
+[![Ansible Badge](https://img.shields.io/badge/build-ansible-critical.svg)](https://shields.io/)
+[![AWS CodeBuild Badge](https://img.shields.io/badge/build-aws%20codebuild-critical.svg)](https://shields.io/)
+[![AWS CodeDeploy Badge](https://img.shields.io/badge/build-aws%20codedeploy-critical.svg)](https://shields.io/)
+[![AWS CodePipeline Badge](https://img.shields.io/badge/build-aws%20codepipeline-critical.svg)](https://shields.io/)
 
 ## Front-End Web Technologies
 
@@ -68,31 +68,31 @@
 ## Testing
 
 [![Cypress Badge](https://img.shields.io/badge/testing-cypress-green.svg)](https://shields.io/)
-[![Mocha Badge](https://img.shields.io/badge/testing-mocha-orange.svg)](https://shields.io/)
+[![Mocha Badge](https://img.shields.io/badge/testing-mocha-green.svg)](https://shields.io/)
 
 ## Vendors (Third Parties)
 
-[![Adobe Alloy](https://img.shields.io/badge/build-adobe%20alloy-blue.svg)](https://shields.io/)
-[![Adobe Analytics](https://img.shields.io/badge/build-adobe%20analytics-blue.svg)](https://shields.io/)
-[![Adobe Target](https://img.shields.io/badge/build-adobe%20target-blue.svg)](https://shields.io/)
-[![CheckMarx](https://img.shields.io/badge/build-checkmarx-blue.svg)](https://shields.io/)
-[![Commission Junctions](https://img.shields.io/badge/build-commission%20junctions-blue.svg)](https://shields.io/)
-[![Genesys](https://img.shields.io/badge/build-genesys-blue.svg)](https://shields.io/)
-[![Glance](https://img.shields.io/badge/build-glance-blue.svg)](https://shields.io/)
-[![Glassbox](https://img.shields.io/badge/build-glassbox-blue.svg)](https://shields.io/)
-[![Google Analytics](https://img.shields.io/badge/build-google%20analytics-blue.svg)](https://shields.io/)
-[![Google DoubleClick](https://img.shields.io/badge/build-google%20doubleclick-blue.svg)](https://shields.io/)
-[![Knotch](https://img.shields.io/badge/build-knotch-blue.svg)](https://shields.io/)
-[![Medallia](https://img.shields.io/badge/build-medallia-blue.svg)](https://shields.io/)
-[![One Trust CCPA](https://img.shields.io/badge/build-onetrust%20ccpa-blue.svg)](https://shields.io/)
-[![One Trust GDPR](https://img.shields.io/badge/build-onetrust%20gdpr-blue.svg)](https://shields.io/)
-[![Splunk](https://img.shields.io/badge/build-splunk-blue.svg)](https://shields.io/)
-[![Stripe](https://img.shields.io/badge/build-stripe-blue.svg)](https://shields.io/)
-[![Shopify](https://img.shields.io/badge/build-shopify-blue.svg)](https://shields.io/)
-[![Tealium](https://img.shields.io/badge/build-tealium-blue.svg)](https://shields.io/)
+[![Adobe Alloy](https://img.shields.io/badge/build-adobe%20alloy-yellowgreen.svg)](https://shields.io/)
+[![Adobe Analytics](https://img.shields.io/badge/build-adobe%20analytics-yellowgreen.svg)](https://shields.io/)
+[![Adobe Target](https://img.shields.io/badge/build-adobe%20target-yellowgreen.svg)](https://shields.io/)
+[![CheckMarx](https://img.shields.io/badge/build-checkmarx-yellowgreen.svg)](https://shields.io/)
+[![Commission Junctions](https://img.shields.io/badge/build-commission%20junctions-yellowgreen.svg)](https://shields.io/)
+[![Genesys](https://img.shields.io/badge/build-genesys-yellowgreen.svg)](https://shields.io/)
+[![Glance](https://img.shields.io/badge/build-glance-yellowgreen.svg)](https://shields.io/)
+[![Glassbox](https://img.shields.io/badge/build-glassbox-yellowgreen.svg)](https://shields.io/)
+[![Google Analytics](https://img.shields.io/badge/build-google%20analytics-yellowgreen.svg)](https://shields.io/)
+[![Google DoubleClick](https://img.shields.io/badge/build-google%20doubleclick-yellowgreen.svg)](https://shields.io/)
+[![Knotch](https://img.shields.io/badge/build-knotch-yellowgreen.svg)](https://shields.io/)
+[![Medallia](https://img.shields.io/badge/build-medallia-yellowgreen.svg)](https://shields.io/)
+[![One Trust CCPA](https://img.shields.io/badge/build-onetrust%20ccpa-yellowgreen.svg)](https://shields.io/)
+[![One Trust GDPR](https://img.shields.io/badge/build-onetrust%20gdpr-yellowgreen.svg)](https://shields.io/)
+[![Splunk](https://img.shields.io/badge/build-splunk-yellowgreen.svg)](https://shields.io/)
+[![Stripe](https://img.shields.io/badge/build-stripe-yellowgreen.svg)](https://shields.io/)
+[![Shopify](https://img.shields.io/badge/build-shopify-yellowgreen.svg)](https://shields.io/)
+[![Tealium](https://img.shields.io/badge/build-tealium-yellowgreen.svg)](https://shields.io/)
 
 ## Version Control
 
-[![Git Badge](https://img.shields.io/badge/version-git-red.svg)](https://shields.io/)
+[![Git Badge](https://img.shields.io/badge/version-git-yellow.svg)](https://shields.io/)
 [![Mercurial Badge](https://img.shields.io/badge/version-merurial-yellow.svg)](https://shields.io/)
-[![Perforce PV4 Badge](https://img.shields.io/badge/version-pv4-blue.svg)](https://shields.io/)
+[![Perforce PV4 Badge](https://img.shields.io/badge/version-pv4-yellow.svg)](https://shields.io/)
