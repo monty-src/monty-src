@@ -29,11 +29,24 @@
 ### Frameworks & Libraries
 
 [![React Badge](https://img.shields.io/badge/framework-react-blue.svg)](https://shields.io/)
-[![Docusaurus Badge](https://img.shields.io/badge/framework-react-blue.svg)](https://shields.io/)
+[![Docusaurus Badge](https://img.shields.io/badge/framework-docusaurus-blue.svg)](https://shields.io/)
 [![Mui Badge](https://img.shields.io/badge/ui-mui-blue.svg)](https://shields.io/)
 [![Foundation Badge](https://img.shields.io/badge/ui-foundation-blue.svg)](https://shields.io/)
 [![Bootstrap Badge](https://img.shields.io/badge/ui-bootstrap-blue.svg)](https://shields.io/)
 [![Uber Badge](https://img.shields.io/badge/ui-baseweb.design-blue.svg)](https://shields.io/)
+
+## CI/CD
+
+[![Jenkins Badge](https://img.shields.io/badge/build-jenkins-blue.svg)](https://shields.io/)
+[![CircleCI Badge](https://img.shields.io/badge/build-circleci-blue.svg)](https://shields.io/)
+[![TravisCI Badge](https://img.shields.io/badge/build-travisci-blue.svg)](https://shields.io/)
+[![GithubPages Badge](https://img.shields.io/badge/build-githubpages-blue.svg)](https://shields.io/)
+[![Ansible Badge](https://img.shields.io/badge/build-ansible-blue.svg)](https://shields.io/)
+[![AWS CodeBuild Badge](https://img.shields.io/badge/build-aws%20codebuild-blue.svg)](https://shields.io/)
+[![AWS CodeDeploy Badge](https://img.shields.io/badge/build-aws%20codedeploy-blue.svg)](https://shields.io/)
+[![AWS CodePipeline Badge](https://img.shields.io/badge/build-aws%20codepipeline-blue.svg)](https://shields.io/)
+
+
 
 ## Testing
 
