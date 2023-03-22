@@ -26,7 +26,7 @@ Just as we organize our books in alphabetical order for ease of access, let us o
 
 [![PM2 Badge](https://img.shields.io/badge/monitoring-pm2-critical.svg)](https://pm2.keymetrics.io/docs/usage/monitoring/)
 [![Newrelic Badge](https://img.shields.io/badge/monitoring-newrelic-critical.svg)](https://newrelic.com/)
-[![CloudWatch Badge](https://img.shields.io/badge/monitoring-cloudwatch-critical.svg)](https://docs.aws.amazon.com/cloudwatch/index.html)
+[![AWS CloudWatch Badge](https://img.shields.io/badge/monitoring-aws%20cloudwatch-critical.svg)](https://docs.aws.amazon.com/cloudwatch/index.html)
 
 ## CI/CD
 
