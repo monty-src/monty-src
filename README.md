@@ -19,8 +19,8 @@ Just as we organize our books in alphabetical order for ease of access, let us o
 
 ### Database
 
-[![SQL Badge](https://img.shields.io/badge/monitoring-mysql-critical.svg)](https://www.mysql.com/)
-[![MongoDB Badge](https://img.shields.io/badge/monitoring-mongodb-critical.svg)](https://www.mongodb.com/)
+[![SQL Badge](https://img.shields.io/badge/db-mysql-critical.svg)](https://www.mysql.com/)
+[![MongoDB Badge](https://img.shields.io/badge/db-mongodb-critical.svg)](https://www.mongodb.com/)
 
 ### Monitoring
 
